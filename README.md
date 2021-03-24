@@ -5,8 +5,9 @@
 # problem statement 
 
 New students join a school and need to be assigned to one of 4 boarding houses. As students come in,
-they registertheirroll number, class & food preference. There are 2 classes - A and B, and two food
-preferences - V & NV. There are 4 boarding houses with equal but limited capacity. The hat follows a
+they register their roll number, class & food preference. There are 2 classes - A and B, and two food
+preferences - V & NV. There are 4 boarding houses with equal but limited capacity. 
+The hat follows a
 first in first out policy with the following rules -
 
 ● Queue will be processed based on the time a studentregistered, first in first out
